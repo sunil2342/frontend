@@ -1,3 +1,3 @@
 # frontend
-This repo is for my frontend learning for testing
+This repo is for my frontend learning 
 
